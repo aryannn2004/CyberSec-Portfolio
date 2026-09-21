@@ -1,0 +1,5 @@
+NETWORK SECURITY SCAN REPORT
+========================================
+
+Target: 192.168.1.2
+
