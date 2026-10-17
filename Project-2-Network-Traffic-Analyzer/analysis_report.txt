@@ -1,0 +1,15 @@
+NETWORK TRAFFIC ANALYSIS REPORT
+========================================
+
+Total packets analyzed: 26
+
+Protocol Statistics:
+TCP: 26
+UDP: 0
+ICMP: 0
+Other IP: 0
+Non-IP: 0
+
+TCP SYN Analysis:
+192.168.200.21: 3 SYN packets
+192.168.200.135: 2 SYN packets
