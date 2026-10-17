@@ -43,3 +43,13 @@ A Python-based network traffic analyzer that reads saved packet capture files an
 
 ## Disclaimer
 This project is intended for educational purposes and offline analysis of packet captures.
+
+### Wireshark Investigation
+
+- **Tool:** Wireshark
+- **Capture file:** `sample.pcapng`
+- **Display filter:** `tcp.port == 2000`
+- **Finding:** Followed a TCP stream and identified the readable message `hello`.
+- **Learning outcome:** Learned how to filter TCP traffic, examine TCP flags, and follow a TCP stream to inspect application data.
+
+**Note:** This was an educational analysis of a sample packet capture.
